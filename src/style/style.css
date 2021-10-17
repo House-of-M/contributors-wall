@@ -21,6 +21,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing:border-box ;
 }
 
 body {
@@ -29,6 +30,9 @@ body {
     color: var(--color-dark-blue-2);
     background-color: var(--color-light);
    
+}
+body.dark{
+background: var(--color-dark-grey-2);
 }
 
 h1 {
@@ -156,11 +160,11 @@ button:hover {
     border-radius: 5px;
 }
 
-main {
+/* main {
     width: 100%;
     display: block;
     background-color: white;
-}
+} */
 
 section {
     display: block;
@@ -259,13 +263,3 @@ footer a:hover {
 }
 
 
-@media (prefers-color-scheme: dark) {
-* {
-      color: #eee;
-      background: #121212;
-    }
-   
-a {
-      color: #809fff;
-    }
-}

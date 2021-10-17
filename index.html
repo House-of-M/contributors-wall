@@ -52,8 +52,14 @@
             </div>
             
         </section>
-
-
+        <!-- some checkbox  -->
+        <div>
+            <input type="checkbox"  id="mode">
+            <label for="checkbox">
+            check in to change to dark or light modes
+                </label>
+        </div>
+    
 
         <section class="contributors" id="contributors">
             <!-- YOUR CONTRIBUTION STARTS HERE WITHIN THIS SECTION-->
@@ -136,6 +142,17 @@
         <p>Made with Science and Magic by <a href="https://indigowizard.github.io/Portfolio/" target="_blank"><b>Indigo Wizard</b></a>🧙 2021.</p>
     </footer>
 
+    
+
 </body>
+<!-- as it only 2 lines i didnt make file -->
+<script lang="javascript">
+    document.getElementById('mode').addEventListener('change',()=>{
+  document.body.classList.toggle('dark');
+}
+);
+    
+    
+</script>
 
 </html>
