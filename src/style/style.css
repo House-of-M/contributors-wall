@@ -28,6 +28,7 @@ body {
     font-size: 18px;
     color: var(--color-dark-blue-2);
     background-color: var(--color-light);
+   
 }
 
 h1 {
@@ -255,4 +256,16 @@ footer a {
 
 footer a:hover {
     color: var(--color-indigo);
+}
+
+
+@media (prefers-color-scheme: dark) {
+* {
+      color: #eee;
+      background: #121212;
+    }
+   
+a {
+      color: #809fff;
+    }
 }
