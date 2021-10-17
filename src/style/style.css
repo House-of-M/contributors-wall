@@ -21,6 +21,7 @@
 * {
     margin: 0;
     padding: 0;
+    
     box-sizing:border-box ;
 }
 
@@ -33,6 +34,9 @@ body {
 }
 body.dark{
 background: var(--color-dark-grey-2);
+/* color:#0969da;
+ */
+ color:#ffffff;
 }
 
 h1 {
@@ -52,6 +56,7 @@ h3 {
     color: var(--color-dark-blue-1);
     margin: 10px 0px 20px;
 }
+
 
 header {
     width: 100%;
