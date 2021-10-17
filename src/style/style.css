@@ -21,6 +21,8 @@
 * {
     margin: 0;
     padding: 0;
+    
+    box-sizing:border-box ;
 }
 
 body {
@@ -28,6 +30,13 @@ body {
     font-size: 18px;
     color: var(--color-dark-blue-2);
     background-color: var(--color-light);
+   
+}
+body.dark{
+background: var(--color-dark-grey-2);
+/* color:#0969da;
+ */
+ color:#ffffff;
 }
 
 h1 {
@@ -47,6 +56,7 @@ h3 {
     color: var(--color-dark-blue-1);
     margin: 10px 0px 20px;
 }
+
 
 header {
     width: 100%;
@@ -155,11 +165,11 @@ button:hover {
     border-radius: 5px;
 }
 
-main {
+/* main {
     width: 100%;
     display: block;
     background-color: white;
-}
+} */
 
 section {
     display: block;
@@ -256,3 +266,5 @@ footer a {
 footer a:hover {
     color: var(--color-indigo);
 }
+
+
