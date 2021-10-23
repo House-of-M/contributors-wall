@@ -21,8 +21,7 @@
 * {
     margin: 0;
     padding: 0;
-    
-    box-sizing:border-box ;
+    box-sizing: border-box;
 }
 
 body {
@@ -30,13 +29,13 @@ body {
     font-size: 18px;
     color: var(--color-dark-blue-2);
     background-color: var(--color-light);
-   
 }
-body.dark{
-background: var(--color-dark-grey-2);
-/* color:#0969da;
+
+body.dark {
+    background: var(--color-dark-grey-2);
+    /* color:#0969da;
  */
- color:#ffffff;
+    color: #ffffff;
 }
 
 h1 {
@@ -57,7 +56,6 @@ h3 {
     margin: 10px 0px 20px;
 }
 
-
 header {
     width: 100%;
     min-width: 100%;
@@ -75,7 +73,12 @@ header {
 
 a {
     text-decoration: none;
+    color: var(--color-dark-blue-2);
     transition: 0.2s ease-in-out;
+}
+
+a::after {
+    color: var(--color-dark-blue-2);
 }
 
 nav li,
@@ -164,6 +167,7 @@ button:hover {
     background-color: var(--color-light-dark-1);
     border-radius: 5px;
 }
+
 
 /* main {
     width: 100%;
@@ -266,5 +270,3 @@ footer a {
 footer a:hover {
     color: var(--color-indigo);
 }
-
-
