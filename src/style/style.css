@@ -12,10 +12,11 @@
     --color-light-blue-3: #0969da;
     --color-dark-blue-1: #2C4563;
     --color-dark-blue-2: #203046;
-    --color-red-1: #e02d46;
+    --color-red-1: rgb(221, 58, 80);
     --color-red-2: #bd2034;
     --color-indigo: #4b0082;
-    --color-gradient: linear-gradient(-90deg, #17cee2 20%, #865ca4 80%)
+    --color-gradient: linear-gradient(-90deg, #17cee2 20%, #865ca4 80%);
+    scroll-behavior: smooth;
 }
 
 * {
@@ -27,6 +28,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
+    transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
     color: var(--color-dark-blue-2);
     background-color: var(--color-light);
 }
@@ -291,17 +293,17 @@ section {
 }
 
 .card-about ul {
+    font-weight: 500;
     list-style-position: inside;
-}
-
-.card-about a {
-    color: var(--color-red-2);
     transition: 0.2s ease-in-out;
 }
 
-.card-about a:hover {
+.card-about ul a {
+    color: var(--color-red-2);
+}
+
+.card-about ul a:hover {
     color: var(--color-red-1);
-    font-weight: 700;
 }
 
 footer {
