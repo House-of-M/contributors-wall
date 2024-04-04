@@ -8,7 +8,7 @@ Contributions are welcome to the project's public repo all year long in accordan
 
 
                    
-All contributions are welcome (_adding features✨, bug fix🔧, bug report🐛, design✒️, documentation📝, fixing typos ...etc_). but we prefer **quality over quantity** so avoid making 5 PRs to fix 5 obvious grammar mistakes just to get the challenge completed faster (There is a possibility of your pr not getting merged.).
+All contributions are welcome (_adding features✨, bug fix🔧, bug report🐛, design✒️, documentation📝, fixing typos ...etc_). but we prefer **quality over quantity** so avoid making 5 PRs to fix 5 obvious grammar mistakes just to get the challenge completed faster (Will not getting merged.).
 
 > This project is not limited in time by it's participation in events such as *hacktoberfest* and will still be active after that.
 
