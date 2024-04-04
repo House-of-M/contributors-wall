@@ -25,4 +25,4 @@ The **Contributors Wall** is surely a good and welcoming initiative for all open
 
 ## Contributing
 
-Please refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) for more instructions.
+Please refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) for more Information about contributing
