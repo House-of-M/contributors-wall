@@ -7,8 +7,8 @@
 Contributions are welcome to the project's public repo all year long in accordance with the projects guidleines, purpouse and goals.
 
 
-
-All contribution is welcome (_adding features✨, bug fix🔧, bug report🐛, design✒️, documentation📝, fixing typos ...etc_). but we prefer **quality over quantity** so avoid making 5 PRs to fix 5 obvious grammar mistakes just to get the challenge completed faster (it may not be merged).
+                   
+All contributions are welcome (_adding features✨, bug fix🔧, bug report🐛, design✒️, documentation📝, fixing typos ...etc_). but we prefer **quality over quantity** so avoid making 5 PRs to fix 5 obvious grammar mistakes just to get the challenge completed faster (it may not be merged).
 
 > This project is not limited in time by it's participation in events such as *hacktoberfest* and will still be active after that.
 
@@ -35,17 +35,17 @@ All contribution is welcome (_adding features✨, bug fix🔧, bug report🐛, d
 
 
 ## Pull Requests
-- Make sure you give your PR a clear discription and **meaningful title** of your contribution are requested.
-- Fork this original repo to your own account.
+- Make sure you give your PR a clear description and a **meaningful title** of your contribution.
+- Fork this original repo to your account.
 - Clone the project to your local machine or in the browser.
-- Create a new branch for you contribution and name it relatively (e.g: **dark-theme-feature** or **contributors-counter**)
-- Document your code, no one has time to figure out the meaning of your ancient rituals codes ...
-- Make sure your contribution don't break existing features.
+- Create a new branch for your contribution and name it relatively (e.g: **dark-theme-feature** or **contributors-counter**)
+- Document your code, no one has time to figure out the meaning of your ancient ritual codes ...
+- Make sure your contribution doesn't break existing features.
 - Link the issue(s) you worked on in your pull request description.
-- Use visual displays (screenshots, pictures, videos) to express the new changes you added in your PR if you contributed to an issue that affects the looks, functions of the project.
+- Use visual displays (screenshots, pictures, videos) to express the new changes you added in your PR if you contributed to an issue that affects the looks, and functions of the project.
 
 # Issues
-- Issues are labbeled to make it easier for contributors/mantainers identify them.
+- Issues are labeled to make it easier for contributors or maintainers to identify them.
 - Always check the existing issues to avoid conflict and duplicates.
 - Request to be assigned to an issue before you start working on it.
 
