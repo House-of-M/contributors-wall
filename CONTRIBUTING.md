@@ -37,7 +37,7 @@ All contribution is welcome (_adding features✨, bug fix🔧, bug report🐛, d
 ## Pull Requests
 - Make sure you give your PR a clear discription and **meaningful title** of your contribution are requested.
 - Fork this original repo to your own account.
-- Clone the project to your local machine (u may work in-browser).
+- Clone the project to your local machine or in the browser.
 - Create a new branch for you contribution and name it relatively (e.g: **dark-theme-feature** or **contributors-counter**)
 - Document your code, no one has time to figure out the meaning of your ancient rituals codes ...
 - Make sure your contribution don't break existing features.
